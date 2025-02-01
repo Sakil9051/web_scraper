@@ -4,3 +4,4 @@ requests==2.26.0
 beautifulsoup4==4.9.3
 python-docx==0.8.11
 lxml==4.9.4; python_version >= "3.11" and sys_platform == "linux"
+gunicorn==20.1.0
